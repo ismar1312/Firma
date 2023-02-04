@@ -111,7 +111,7 @@ namespace Projekat.Admin
 
         string GetConnectionString()
         {
-            return "Data Source=DESKTOP-CDPPIKN\\SQLEXPRESS;Initial Catalog=Firma;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            return "";
         }
 
         protected void Button1_Click(object sender, EventArgs e)
